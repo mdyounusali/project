@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+               <meta charset="utf-8">
+               <meta http-equiv="X-UA-Compatible" content="IE-edge">
+               <meta name="viewport" content="width=device-width,initial-scale=1">
+               <title>B2C Ecommarce website</title>
+                <!-- Bootstrap -->
+               <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+               <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
+
+         
+        </head>
+         
+         
+         
+         <body style="margin-top:10px;">
+		<div style=" border: 1px #666 solid; width:800px;overflow:auto;margin:auto;background:#666;">
+			<div style= "border: 1 #000 dotted; width: 95%;height:750px;margin:auto;text-align:center;
+			line-height:20px;font-size:36px;color:#F00;background-color:#CCC">
+				Prescription
+			<div style="color:#000;font-size:19px;font-family:Times New Roman">
+			
+            
+            
+        <div class="item">
+  <img src="..." alt="...">
+  <div class="carousel-caption">
+    <h3>...</h3>
+    <p>...</p>
+  </div>
+</div> 
+            
+            
+            
+            
+            
+            
+                         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="assets/js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="assets/js/bootstrap.min.js"></script>
+            
+            </body>
+            
+            
+</html>
